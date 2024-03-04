@@ -2,5 +2,4 @@ pandas
 numpy
 seaborn
 ipykernel
-ucimlrepo
 scikit-learn
