@@ -1,0 +1,7 @@
+pandas
+numpy
+seaborn
+mrmr_selection
+ipykernel
+ucimlrepo
+scikit-learn
