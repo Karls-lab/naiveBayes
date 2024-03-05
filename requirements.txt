@@ -3,3 +3,4 @@ numpy
 seaborn
 ipykernel
 scikit-learn
+nltk
